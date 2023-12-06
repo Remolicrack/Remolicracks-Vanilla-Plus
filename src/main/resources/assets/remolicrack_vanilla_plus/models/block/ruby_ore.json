@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "remolicrack_vanilla_plus:block/ruby_ore",
+    "particle": "remolicrack_vanilla_plus:block/ruby_ore"
+  },
+  "render_type": "solid"
+}

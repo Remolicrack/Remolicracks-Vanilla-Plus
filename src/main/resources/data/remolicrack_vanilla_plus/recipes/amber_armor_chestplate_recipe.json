@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "remolicrack_vanilla_plus:amber"
+    }
+  },
+  "result": {
+    "item": "remolicrack_vanilla_plus:amber_armor_chestplate",
+    "count": 1
+  }
+}

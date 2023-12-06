@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_terracotta"
+    }
+  },
+  "result": {
+    "item": "minecraft:white_concrete",
+    "count": 4
+  }
+}

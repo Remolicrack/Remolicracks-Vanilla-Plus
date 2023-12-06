@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "remolicrack_vanilla_plus:jade"
+    }
+  },
+  "result": {
+    "item": "remolicrack_vanilla_plus:jade_armor_helmet",
+    "count": 1
+  }
+}

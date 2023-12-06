@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "remolicrack_vanilla_plus:block/apple_leaves",
+    "particle": "remolicrack_vanilla_plus:block/apple_leaves"
+  }
+}

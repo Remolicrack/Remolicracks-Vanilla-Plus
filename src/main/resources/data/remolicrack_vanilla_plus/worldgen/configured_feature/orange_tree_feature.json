@@ -1,0 +1,12 @@
+{
+  "type": "remolicrack_vanilla_plus:structure_feature",
+  "config": {
+    "structure": "remolicrack_vanilla_plus:orange_tree",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "remolicrack_vanilla_plus:ruby"
+    }
+  },
+  "result": {
+    "item": "remolicrack_vanilla_plus:ruby_block",
+    "count": 1
+  }
+}

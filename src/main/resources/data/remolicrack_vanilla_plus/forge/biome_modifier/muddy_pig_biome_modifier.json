@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "mangrove_swamp",
+    "swamp"
+  ],
+  "spawners": {
+    "type": "remolicrack_vanilla_plus:muddy_pig",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

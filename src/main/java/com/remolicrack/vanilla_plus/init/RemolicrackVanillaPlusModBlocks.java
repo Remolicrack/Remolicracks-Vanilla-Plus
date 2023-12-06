@@ -1,0 +1,115 @@
+
+/*
+ *    MCreator note: This file will be REGENERATED on each build.
+ */
+package com.remolicrack.vanilla_plus.init;
+
+import net.minecraftforge.registries.RegistryObject;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.DeferredRegister;
+
+import net.minecraft.world.level.block.Block;
+
+import com.remolicrack.vanilla_plus.block.YellowConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.YellowConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.WhiteConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.WhiteConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.StrawberryCrop3Block;
+import com.remolicrack.vanilla_plus.block.StrawberryCrop2Block;
+import com.remolicrack.vanilla_plus.block.StrawberryCrop1Block;
+import com.remolicrack.vanilla_plus.block.StrawberryCrop0Block;
+import com.remolicrack.vanilla_plus.block.RubyOreBlock;
+import com.remolicrack.vanilla_plus.block.RubyBlockBlock;
+import com.remolicrack.vanilla_plus.block.RedConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.RedConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.RawJadeBlockBlock;
+import com.remolicrack.vanilla_plus.block.PurpleConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.PurpleConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.PinkConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.PinkConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.OrangeLeavesBlock;
+import com.remolicrack.vanilla_plus.block.OrangeConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.OrangeConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.MagentaConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.MagentaConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.LimeConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.LimeConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.LightGrayConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.LightGrayConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.LightBlueConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.LightBlueConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.JadeOreBlock;
+import com.remolicrack.vanilla_plus.block.JadeBlockBlock;
+import com.remolicrack.vanilla_plus.block.GreenConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.GreenConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.GrayConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.GrayConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.EnderiteOreBlock;
+import com.remolicrack.vanilla_plus.block.EnderiteBlockBlock;
+import com.remolicrack.vanilla_plus.block.DeepslateRubyOreBlock;
+import com.remolicrack.vanilla_plus.block.DeepslateAmberOreBlock;
+import com.remolicrack.vanilla_plus.block.CyanConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.CyanConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.BrownConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.BrownConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.BlueConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.BlueConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.BlackConcreteStairsBlock;
+import com.remolicrack.vanilla_plus.block.BlackConcreteSlabBlock;
+import com.remolicrack.vanilla_plus.block.AppleLeavesBlock;
+import com.remolicrack.vanilla_plus.block.AmberOreBlock;
+import com.remolicrack.vanilla_plus.block.AmberBlockBlock;
+import com.remolicrack.vanilla_plus.RemolicrackVanillaPlusMod;
+
+public class RemolicrackVanillaPlusModBlocks {
+	public static final DeferredRegister<Block> REGISTRY = DeferredRegister.create(ForgeRegistries.BLOCKS, RemolicrackVanillaPlusMod.MODID);
+	public static final RegistryObject<Block> ENDERITE_ORE = REGISTRY.register("enderite_ore", () -> new EnderiteOreBlock());
+	public static final RegistryObject<Block> ENDERITE_BLOCK = REGISTRY.register("enderite_block", () -> new EnderiteBlockBlock());
+	public static final RegistryObject<Block> AMBER_ORE = REGISTRY.register("amber_ore", () -> new AmberOreBlock());
+	public static final RegistryObject<Block> DEEPSLATE_AMBER_ORE = REGISTRY.register("deepslate_amber_ore", () -> new DeepslateAmberOreBlock());
+	public static final RegistryObject<Block> AMBER_BLOCK = REGISTRY.register("amber_block", () -> new AmberBlockBlock());
+	public static final RegistryObject<Block> RUBY_ORE = REGISTRY.register("ruby_ore", () -> new RubyOreBlock());
+	public static final RegistryObject<Block> DEEPSLATE_RUBY_ORE = REGISTRY.register("deepslate_ruby_ore", () -> new DeepslateRubyOreBlock());
+	public static final RegistryObject<Block> RUBY_BLOCK = REGISTRY.register("ruby_block", () -> new RubyBlockBlock());
+	public static final RegistryObject<Block> JADE_ORE = REGISTRY.register("jade_ore", () -> new JadeOreBlock());
+	public static final RegistryObject<Block> RAW_JADE_BLOCK = REGISTRY.register("raw_jade_block", () -> new RawJadeBlockBlock());
+	public static final RegistryObject<Block> JADE_BLOCK = REGISTRY.register("jade_block", () -> new JadeBlockBlock());
+	public static final RegistryObject<Block> ORANGE_LEAVES = REGISTRY.register("orange_leaves", () -> new OrangeLeavesBlock());
+	public static final RegistryObject<Block> APPLE_LEAVES = REGISTRY.register("apple_leaves", () -> new AppleLeavesBlock());
+	public static final RegistryObject<Block> WHITE_CONCRETE_STAIRS = REGISTRY.register("white_concrete_stairs", () -> new WhiteConcreteStairsBlock());
+	public static final RegistryObject<Block> WHITE_CONCRETE_SLAB = REGISTRY.register("white_concrete_slab", () -> new WhiteConcreteSlabBlock());
+	public static final RegistryObject<Block> ORANGE_CONCRETE_STAIRS = REGISTRY.register("orange_concrete_stairs", () -> new OrangeConcreteStairsBlock());
+	public static final RegistryObject<Block> ORANGE_CONCRETE_SLAB = REGISTRY.register("orange_concrete_slab", () -> new OrangeConcreteSlabBlock());
+	public static final RegistryObject<Block> BLACK_CONCRETE_STAIRS = REGISTRY.register("black_concrete_stairs", () -> new BlackConcreteStairsBlock());
+	public static final RegistryObject<Block> BLACK_CONCRETE_SLAB = REGISTRY.register("black_concrete_slab", () -> new BlackConcreteSlabBlock());
+	public static final RegistryObject<Block> BLUE_CONCRETE_STAIRS = REGISTRY.register("blue_concrete_stairs", () -> new BlueConcreteStairsBlock());
+	public static final RegistryObject<Block> BLUE_CONCRETE_SLAB = REGISTRY.register("blue_concrete_slab", () -> new BlueConcreteSlabBlock());
+	public static final RegistryObject<Block> BROWN_CONCRETE_STAIRS = REGISTRY.register("brown_concrete_stairs", () -> new BrownConcreteStairsBlock());
+	public static final RegistryObject<Block> BROWN_CONCRETE_SLAB = REGISTRY.register("brown_concrete_slab", () -> new BrownConcreteSlabBlock());
+	public static final RegistryObject<Block> CYAN_CONCRETE_STAIRS = REGISTRY.register("cyan_concrete_stairs", () -> new CyanConcreteStairsBlock());
+	public static final RegistryObject<Block> CYAN_CONCRETE_SLAB = REGISTRY.register("cyan_concrete_slab", () -> new CyanConcreteSlabBlock());
+	public static final RegistryObject<Block> GRAY_CONCRETE_STAIRS = REGISTRY.register("gray_concrete_stairs", () -> new GrayConcreteStairsBlock());
+	public static final RegistryObject<Block> GRAY_CONCRETE_SLAB = REGISTRY.register("gray_concrete_slab", () -> new GrayConcreteSlabBlock());
+	public static final RegistryObject<Block> GREEN_CONCRETE_STAIRS = REGISTRY.register("green_concrete_stairs", () -> new GreenConcreteStairsBlock());
+	public static final RegistryObject<Block> GREEN_CONCRETE_SLAB = REGISTRY.register("green_concrete_slab", () -> new GreenConcreteSlabBlock());
+	public static final RegistryObject<Block> LIGHT_BLUE_CONCRETE_STAIRS = REGISTRY.register("light_blue_concrete_stairs", () -> new LightBlueConcreteStairsBlock());
+	public static final RegistryObject<Block> LIGHT_BLUE_CONCRETE_SLAB = REGISTRY.register("light_blue_concrete_slab", () -> new LightBlueConcreteSlabBlock());
+	public static final RegistryObject<Block> LIGHT_GRAY_CONCRETE_STAIRS = REGISTRY.register("light_gray_concrete_stairs", () -> new LightGrayConcreteStairsBlock());
+	public static final RegistryObject<Block> LIGHT_GRAY_CONCRETE_SLAB = REGISTRY.register("light_gray_concrete_slab", () -> new LightGrayConcreteSlabBlock());
+	public static final RegistryObject<Block> LIME_CONCRETE_STAIRS = REGISTRY.register("lime_concrete_stairs", () -> new LimeConcreteStairsBlock());
+	public static final RegistryObject<Block> LIME_CONCRETE_SLAB = REGISTRY.register("lime_concrete_slab", () -> new LimeConcreteSlabBlock());
+	public static final RegistryObject<Block> MAGENTA_CONCRETE_STAIRS = REGISTRY.register("magenta_concrete_stairs", () -> new MagentaConcreteStairsBlock());
+	public static final RegistryObject<Block> MAGENTA_CONCRETE_SLAB = REGISTRY.register("magenta_concrete_slab", () -> new MagentaConcreteSlabBlock());
+	public static final RegistryObject<Block> PINK_CONCRETE_STAIRS = REGISTRY.register("pink_concrete_stairs", () -> new PinkConcreteStairsBlock());
+	public static final RegistryObject<Block> PINK_CONCRETE_SLAB = REGISTRY.register("pink_concrete_slab", () -> new PinkConcreteSlabBlock());
+	public static final RegistryObject<Block> PURPLE_CONCRETE_STAIRS = REGISTRY.register("purple_concrete_stairs", () -> new PurpleConcreteStairsBlock());
+	public static final RegistryObject<Block> PURPLE_CONCRETE_SLAB = REGISTRY.register("purple_concrete_slab", () -> new PurpleConcreteSlabBlock());
+	public static final RegistryObject<Block> RED_CONCRETE_STAIRS = REGISTRY.register("red_concrete_stairs", () -> new RedConcreteStairsBlock());
+	public static final RegistryObject<Block> RED_CONCRETE_SLAB = REGISTRY.register("red_concrete_slab", () -> new RedConcreteSlabBlock());
+	public static final RegistryObject<Block> YELLOW_CONCRETE_STAIRS = REGISTRY.register("yellow_concrete_stairs", () -> new YellowConcreteStairsBlock());
+	public static final RegistryObject<Block> YELLOW_CONCRETE_SLAB = REGISTRY.register("yellow_concrete_slab", () -> new YellowConcreteSlabBlock());
+	public static final RegistryObject<Block> STRAWBERRY_CROP_0 = REGISTRY.register("strawberry_crop_0", () -> new StrawberryCrop0Block());
+	public static final RegistryObject<Block> STRAWBERRY_CROP_1 = REGISTRY.register("strawberry_crop_1", () -> new StrawberryCrop1Block());
+	public static final RegistryObject<Block> STRAWBERRY_CROP_2 = REGISTRY.register("strawberry_crop_2", () -> new StrawberryCrop2Block());
+	public static final RegistryObject<Block> STRAWBERRY_CROP_3 = REGISTRY.register("strawberry_crop_3", () -> new StrawberryCrop3Block());
+}

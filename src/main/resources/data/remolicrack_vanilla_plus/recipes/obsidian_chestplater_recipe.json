@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "remolicrack_vanilla_plus:obsidian_armor_chestplate",
+    "count": 1
+  }
+}

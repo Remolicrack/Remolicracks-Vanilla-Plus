@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "remolicrack_vanilla_plus:amber_block"
+    }
+  ],
+  "result": {
+    "item": "remolicrack_vanilla_plus:amber",
+    "count": 9
+  }
+}

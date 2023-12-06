@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "remolicrack_vanilla_plus:ruby"
+    }
+  },
+  "result": {
+    "item": "remolicrack_vanilla_plus:ruby_armor_boots",
+    "count": 1
+  }
+}

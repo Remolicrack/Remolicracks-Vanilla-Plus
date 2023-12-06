@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "remolicrack_vanilla_plus:jade_block"
+    }
+  },
+  "result": {
+    "item": "remolicrack_vanilla_plus:jade",
+    "count": 9
+  }
+}

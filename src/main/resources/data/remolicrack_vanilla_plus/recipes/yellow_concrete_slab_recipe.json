@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:yellow_concrete"
+    }
+  },
+  "result": {
+    "item": "remolicrack_vanilla_plus:yellow_concrete_slab",
+    "count": 6
+  }
+}

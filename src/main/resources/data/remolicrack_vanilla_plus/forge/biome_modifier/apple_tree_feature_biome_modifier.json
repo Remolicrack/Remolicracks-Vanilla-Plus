@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "old_growth_birch_forest",
+    "sunflower_plains",
+    "snowy_plains",
+    "plains",
+    "birch_forest",
+    "meadow",
+    "cherry_grove"
+  ],
+  "features": "remolicrack_vanilla_plus:apple_tree_feature",
+  "step": "surface_structures"
+}

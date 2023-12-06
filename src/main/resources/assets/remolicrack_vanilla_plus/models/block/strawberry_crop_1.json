@@ -1,0 +1,8 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "remolicrack_vanilla_plus:block/strawberry_stage1",
+    "particle": "remolicrack_vanilla_plus:block/strawberry_stage1"
+  },
+  "render_type": "cutout"
+}

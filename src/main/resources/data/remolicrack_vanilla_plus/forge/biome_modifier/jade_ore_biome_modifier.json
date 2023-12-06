@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_nether",
+  "features": "remolicrack_vanilla_plus:jade_ore",
+  "step": "underground_ores"
+}

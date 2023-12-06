@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "remolicrack_vanilla_plus:block/red_concrete_slab"
+    },
+    "type=top": {
+      "model": "remolicrack_vanilla_plus:block/red_concrete_slab_top"
+    },
+    "type=double": {
+      "model": "remolicrack_vanilla_plus:block/red_concrete_slab_full"
+    }
+  }
+}

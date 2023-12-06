@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "item": "remolicrack_vanilla_plus:crying_obsidian_armor_helmet",
+    "count": 1
+  }
+}

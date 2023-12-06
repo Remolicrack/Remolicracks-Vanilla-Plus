@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:lime_terracotta"
+    }
+  },
+  "result": {
+    "item": "minecraft:lime_concrete",
+    "count": 4
+  }
+}

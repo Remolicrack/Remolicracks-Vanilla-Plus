@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "remolicrack_vanilla_plus:glass_shards"
+    }
+  },
+  "result": {
+    "item": "minecraft:glass",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "remolicrack_vanilla_plus:block/enderite_ore_top",
+    "up": "remolicrack_vanilla_plus:block/enderite_ore_top",
+    "north": "remolicrack_vanilla_plus:block/enderite_ore_side",
+    "east": "remolicrack_vanilla_plus:block/enderite_ore_side",
+    "south": "remolicrack_vanilla_plus:block/enderite_ore_side",
+    "west": "remolicrack_vanilla_plus:block/enderite_ore_side",
+    "particle": "remolicrack_vanilla_plus:block/enderite_ore_top"
+  },
+  "render_type": "solid"
+}
